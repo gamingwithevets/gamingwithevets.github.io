@@ -1,2 +1,1 @@
-# gamingwithevets.github.io
-Self-explanatory
+Self-explanatory.

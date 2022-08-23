@@ -1,14 +1,11 @@
 ---
 layout: page
-title: GamingWithEvets.GitHub.io
-tagline: is officially open!
-description:
+title: GamingWithEvets' website
 ---
 
-Thanks to [Karl Broman](https://kbroman.org/simple_site) for this site template.
+Welcome to GamingWithEvets.GitHub.io!
 
-What's that? Looking for my stuff? Just add `/stuff` after `gamingwithevets.github.io`!  
-And if you came here for my blog, add `/blog` after `gamingwithevets.github.io`.
+What's that? Looking for my stuff? Looking for my blog? Use the links below!
 
 Join [my Discord server](https://gamingwithevets.github.io/redirector/discord.html)!
 

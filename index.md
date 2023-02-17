@@ -9,15 +9,21 @@ Welcome to GamingWithEvets.GitHub.io!
 - [Sneky](https://github.com/gamingwithevets/sneky)
 - [QuizProg](https://github.com/gamingwithevets/quizprog)
 - [QuizProg-GUI](https://github.com/gamingwithevets/quizprog-gui)
-- [RBEditor](https://github.com/gamingwithevets/rbeditor) ***(NEW!)***
+- [RBEditor](https://github.com/gamingwithevets/rbeditor)
 
 ## Links
 - [GWE's Blog](/blog)
 - [GWE's Stuff](/stuff)
-- [(Vietnamese) Thư Viện Ma Trận](/thu-vien-ma-tran)
 - [GWE's Redirector](/redirector)
 - - [Discord Server](/redirector/discord.html)
 - - [Google Drive Videos](/redirector/newvideos.html)
 - - [Flash Files](/redirector/flashdl.html)
-- - [How You Use Your Computer (Vietnamese)](/redirector/compform_vi.html)
-- - [QuizProg Vietnamese Quiz](/redirector/hoingu_vi.html)
+
+<details>
+<summary><b>Vietnamese links</b></summary><br>
+  <ul>
+    <li><a href="/thu-vien-ma-tran">Thư Viện Ma Trận</a></li>
+    <li><a href="/redirector/compform_vi.html">Cách Bạn Dùng Máy Tính + Về Gà rên ahhhhh</a></li>
+    <li><a href="/thu-vien-ma-tran">Hỏi Ngu cho QuizProg</a></li>
+  </ul>
+</details>

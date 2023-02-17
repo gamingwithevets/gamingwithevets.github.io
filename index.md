@@ -23,6 +23,7 @@ Welcome to GamingWithEvets.GitHub.io!
 <summary><b>Vietnamese links</b></summary><br>
   <ul>
     <li><a href="/thu-vien-ma-tran">Thư Viện Ma Trận</a></li>
+    <li><a href="/just-the-docs-template-vn">Just the Docs Template [VN]</a></li>
     <li><a href="/redirector/compform_vi.html">Cách Bạn Dùng Máy Tính + Về Gà rên ahhhhh</a></li>
     <li><a href="/thu-vien-ma-tran">Hỏi Ngu cho QuizProg</a></li>
   </ul>

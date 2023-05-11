@@ -5,7 +5,7 @@ title: GamingWithEvets' website
 
 Welcome to GamingWithEvets.GitHub.io!
 
-## Projects
+## Featured projects
 - [Sneky](https://github.com/gamingwithevets/sneky)
 - [QuizProg](https://github.com/gamingwithevets/quizprog)
 - [QuizProg-GUI](https://github.com/gamingwithevets/quizprog-gui)

@@ -10,6 +10,7 @@ Welcome to GamingWithEvets.GitHub.io!
 - [QuizProg](https://github.com/gamingwithevets/quizprog)
 - [QuizProg-GUI](https://github.com/gamingwithevets/quizprog-gui)
 - [RBEditor](https://github.com/gamingwithevets/rbeditor)
+- [GWE's TkTemplate](https://github.com/gamingwithevets/tktemplate)
 
 ## Links
 - [GWE's Blog](/blog)

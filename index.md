@@ -19,7 +19,6 @@ Welcome to the website of Steveyboi/GamingWithEvets!
 - - [Discord Server](/redirector/discord.html)
 - - [Google Drive Videos](/redirector/newvideos.html)
 - - [Flash Files](/redirector/flashdl.html)
-- - [\[Tampermonkey\] Classpad Enhancer](/redirector/tpmk_classpad_vip.html)
 
 <details>
 <summary><b>Vietnamese links</b></summary><br>

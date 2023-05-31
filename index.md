@@ -1,9 +1,9 @@
 ---
 layout: page
-title: GamingWithEvets' website
+title: Home
 ---
 
-Welcome to GamingWithEvets.GitHub.io!
+Welcome to the website of Steveyboi/GamingWithEvets!
 
 ## Featured projects
 - [Sneky](https://github.com/gamingwithevets/sneky)
@@ -12,7 +12,7 @@ Welcome to GamingWithEvets.GitHub.io!
 - [RBEditor](https://github.com/gamingwithevets/rbeditor)
 - [GWE's TkTemplate](https://github.com/gamingwithevets/tktemplate)
 
-## Links
+## Links on this website
 - [GWE's Blog](/blog)
 - [GWE's Stuff](/stuff)
 - [GWE's Redirector](/redirector)
@@ -30,3 +30,8 @@ Welcome to GamingWithEvets.GitHub.io!
     <li><a href="/thu-vien-ma-tran">Hỏi Ngu cho QuizProg</a></li>
   </ul>
 </details>
+
+## External links
+- [GitHub](https://github.com/gamingwithevets)
+- [Twitter](https://twitter.com/GamingWithEvets)
+- [YouTube](https://youtube.com/@gamingwithevets)

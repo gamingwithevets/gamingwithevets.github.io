@@ -31,6 +31,7 @@ Welcome to the website of Steveyboi/GamingWithEvets!
 </details>
 
 ## External links
+- [Second website](https://gwe.42web.io)
 - [GitHub](https://github.com/gamingwithevets)
 - [Twitter](https://twitter.com/GamingWithEvets)
 - [YouTube](https://youtube.com/@gamingwithevets)

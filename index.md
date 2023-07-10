@@ -19,6 +19,7 @@ Welcome to the website of Steveyboi/GamingWithEvets!
 - - [Discord Server](/redirector/discord.html)
 - - [Google Drive Videos](/redirector/newvideos.html)
 - - [Flash Files](/redirector/flashdl.html)
+- [CasioCalc Dumping Ground](/casiocalc)
 
 <details>
 <summary><b>Vietnamese links</b></summary><br>

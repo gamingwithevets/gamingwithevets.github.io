@@ -19,7 +19,6 @@ Welcome to the website of Steveyboi/GamingWithEvets!
 - - [Discord Server](/redirector/discord.html)
 - - [Google Drive Videos](/redirector/newvideos.html)
 - - [Flash Files](/redirector/flashdl.html)
-- [CasioCalc Dumping Ground](/casiocalc)
 
 <details>
 <summary><b>Vietnamese links</b></summary><br>
@@ -33,6 +32,9 @@ Welcome to the website of Steveyboi/GamingWithEvets!
 
 ## External links
 - [Second website](https://gwe.42web.io)
+- [CasioCalc Dumping Ground](https://casiocalc.github.io)
+
+### Social media
 - [GitHub](https://github.com/gamingwithevets)
-- [Twitter](https://twitter.com/GamingWithEvets)
+- [~~Twitter~~ X](https://twitter.com/GamingWithEvets)
 - [YouTube](https://youtube.com/@gamingwithevets)

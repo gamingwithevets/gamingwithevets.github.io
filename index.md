@@ -33,6 +33,7 @@ Welcome to the website of Steveyboi/GamingWithEvets!
 
 ## External links
 - [Second website](https://gwe.42web.io)
+- [Calcupedia Backup](https://fxesdev.github.io/calcupedia_backup)
 
 ### Social media
 - [GitHub](https://github.com/gamingwithevets)

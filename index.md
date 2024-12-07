@@ -32,3 +32,7 @@ Welcome to Steveyboi's website!
 - [GitHub](https://github.com/gamingwithevets)
 - [~~Twitter~~ X](https://twitter.com/GamingWithEvets)
 - [YouTube](https://youtube.com/@gamingwithevets)
+
+### Contact
+- Discord: `saul.steveyman`
+- Email: [thenewgwe@gmail.com](mailto:thenewgwe@gmail.com)

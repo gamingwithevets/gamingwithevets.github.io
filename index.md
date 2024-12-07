@@ -13,7 +13,6 @@ Welcome to Steveyboi's website!
 - [Sneky](https://github.com/gamingwithevets/sneky)
 
 ## Links on this website
-- [GWE's Blog](/blog)
 - [GWE's Stuff](/stuff)
 - [GWE's Redirector](/redirector)
 - - [Google Drive Videos](/redirector/newvideos.html)

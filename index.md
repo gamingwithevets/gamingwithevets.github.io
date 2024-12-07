@@ -17,7 +17,6 @@ Welcome to Steveyboi's website!
 - [GWE's Stuff](/stuff)
 - [GWE's Redirector](/redirector)
 - - [Google Drive Videos](/redirector/newvideos.html)
-- - [Flash Files](/redirector/flashdl.html)
 
 <details>
 <summary><b>Vietnamese links</b></summary><br>

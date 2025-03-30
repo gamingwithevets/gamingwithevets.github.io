@@ -32,5 +32,5 @@ Welcome to Steveyboi's website!
 - [YouTube](https://youtube.com/@gamingwithevets)
 
 ### Contact
-- Discord: `saul.steveyman`
+- Discord: `_steveyboi`
 - Email: [thenewgwe@gmail.com](mailto:thenewgwe@gmail.com)

@@ -21,7 +21,6 @@ Welcome to Steveyboi's website!
 <summary><b>Vietnamese links</b></summary><br>
   <ul>
     <li><a href="/just-the-docs-template-vn">Just the Docs Template [VN]</a></li>
-    <li><a href="/redirector/compform_vi.html">Cách Bạn Dùng Máy Tính + Về Gà rên ahhhhh</a></li>
     <li><a href="/redirector/hoingu_vi.html">Hỏi Ngu cho QuizProg</a></li>
   </ul>
 </details>
@@ -34,3 +33,4 @@ Welcome to Steveyboi's website!
 ### Contact
 - Discord: `_steveyboi`
 - Email: [thenewgwe@gmail.com](mailto:thenewgwe@gmail.com)
+

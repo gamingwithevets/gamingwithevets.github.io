@@ -25,15 +25,14 @@ Welcome to Steveyboi's website!
   </ul>
 </details>
 
-### External links
+## External links
 [Second website](https://gwe.dpdns.org)
 
-### Social media
+## Social media
 - [GitHub](https://github.com/gamingwithevets)
 - [~~Twitter~~ X](https://twitter.com/GamingWithEvets)
 - [YouTube](https://youtube.com/@gwetm1)
 
-### Contact
+## Contact
 - Discord: `_steveyboi`
 - Email: [thenewgwe@gmail.com](mailto:thenewgwe@gmail.com)
-

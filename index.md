@@ -15,8 +15,6 @@ Welcome to Steveyboi's website!
 ## Links on this website
 - [Casio Calculator Version Database](/sumdb)
 - [GWE's Stuff](/stuff)
-- [GWE's Redirector](/redirector)
-- - [Google Drive Videos](/redirector/newvideos.html)
 
 <details>
 <summary><b>Vietnamese links</b></summary><br>
